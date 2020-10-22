@@ -46,7 +46,7 @@ To use the Lighthaus theme for Windows-Terminal <br>
     "brightRed" : "#FF5050",
     "brightWhite" : "#FFFADE",
     "brightYellow" : "#ED722E"
-}
+    }
     ```
 - Paste it into `Settings` under `"schemes":`
 - Under `Profiles` choose `Lighthaus`
