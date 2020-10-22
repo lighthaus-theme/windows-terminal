@@ -1,0 +1,36 @@
+// Lighthaus Color theme for Windows-Terminal
+// GIT: https://github.com/lighthaus-theme/windows-terminal
+// Author: Adhiraj Sirohi (https://github.com/brutuski)
+//         Vasundhara Sharma (https://github.com/vasundhasauras)
+//
+// Copyright © 2020-Present Lighthaus Theme
+// Copyright © 2020-Present Adhiraj Sirohi
+// Copyright © 2020-Present Vasundhara Sharma
+
+{
+    "name" : "Lighthaus",
+
+    "cursorColor": "#FFFF00",
+    "selectionBackground": "#090B26",
+    "selectionForeground": "#FF4D00",
+
+    "background" : "#18191E",
+    "foreground" : "#FFEE79",
+
+    "black" : "#18191E",
+    "blue" : "#1D918B",
+    "cyan" : "#00BFA3",
+    "green" : "#44B273",
+    "purple" : "#D16BB7",
+    "red" : "#FC2929",
+    "white" : "#CCCCCC",
+    "yellow" : "#E25600",
+    "brightBlack" : "#21252D",
+    "brightBlue" : "#47A8A1",
+    "brightCyan" : "#5AD1AA",
+    "brightGreen" : "#50C16E",
+    "brightPurple" : "#D68EB2",
+    "brightRed" : "#FF5050",
+    "brightWhite" : "#FFFADE",
+    "brightYellow" : "#ED722E"
+}
