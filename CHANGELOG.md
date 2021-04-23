@@ -1,9 +1,14 @@
-# Changelog
+<h2 align="center">Changelog</h2>
 
 ### Table of Contents
-- [v1.0.0](#v1.0.0)
+- [Table of Contents](#table-of-contents)
+- [v1.1.0](#v110)
+- [v1.0.0](#v100)
 - [Versioning System](#versioning-system)
 - [License](#license)
+
+### v1.1.0
+- Corrected contrast issue with `bright black`. See [Issue](https://github.com/lighthaus-theme/lighthaus/issues/3) (_23/04/2020_)
 
 ### v1.0.0
 - Initial Commit (_22/10/2020_)
